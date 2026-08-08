@@ -84,8 +84,7 @@ Junior QA Engineer с **4 месяцами коммерческого опыта
 
 Примеры практической работы в тестировании:
 
-`Bug Reports` · `Test Cases` · `Checklists` · `API Testing` · `SQL`
-
+`Bug Reports` · `Checklists` · `Test Design` · `Functional Testing` · `Technical Audit` · `JMeter`
 [![Portfolio](https://img.shields.io/badge/Открыть_QA_Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/AxelBl1ze/qa-portfolio)
 ---
 
