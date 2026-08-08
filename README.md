@@ -86,8 +86,7 @@ Junior QA Engineer с **4 месяцами коммерческого опыта
 
 `Bug Reports` · `Test Cases` · `Checklists` · `API Testing` · `SQL`
 
-> Портфолио находится в процессе наполнения.
-
+[![Portfolio](https://img.shields.io/badge/Открыть_QA_Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/AxelBl1ze/qa-portfolio)
 ---
 
 ### Smetchik
