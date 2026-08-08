@@ -86,8 +86,7 @@ Practical examples of my QA work:
 
 `Bug Reports` · `Test Cases` · `Checklists` · `API Testing` · `SQL`
 
-> Portfolio is currently being updated.
-
+[![Portfolio](https://img.shields.io/badge/Открыть_QA_Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/AxelBl1ze/qa-portfolio)
 ---
 
 ### Smetchik
