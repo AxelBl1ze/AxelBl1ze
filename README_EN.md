@@ -84,7 +84,7 @@ Automated UI tests for the main scenarios of a web-based ServiceDesk application
 
 Practical examples of my QA work:
 
-`Bug Reports` · `Test Cases` · `Checklists` · `API Testing` · `SQL`
+`Bug Reports` · `Checklists` · `Test Design` · `Functional Testing` · `Technical Audit` · `JMeter`
 
 [![Portfolio](https://img.shields.io/badge/Открыть_QA_Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/AxelBl1ze/qa-portfolio)
 ---
