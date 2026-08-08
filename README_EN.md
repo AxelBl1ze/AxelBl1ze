@@ -6,7 +6,7 @@
 
 **Manual Testing · API Testing · UI Automation**
 
-[![Russian](https://img.shields.io/badge/Русская_версия-181717?style=for-the-badge&logo=github)](README.md)
+[RU](README.md) &nbsp; | &nbsp; **EN**
 
 <br>
 
@@ -100,15 +100,9 @@ Developing my own product gave me practical experience with the software develop
 
 ---
 
-## GitHub Stats
+## Currently Learning
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AxelBl1ze&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelBl1ze&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
+`Python` · `Pytest` · `Playwright` · `Selenium` · `API Testing` · `SQL` · `CI/CD`
 
 ---
 
@@ -117,7 +111,9 @@ Developing my own product gave me practical experience with the software develop
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@kyar0gg-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kyar0gg)
-[![Email](https://img.shields.io/badge/Email-axelblazeee@yandex.ru-FFCC00?style=for-the-badge&logo=maildotru&logoColor=black)](mailto:axelblazeee@yandex.ru)
+[![Email](https://img.shields.io/badge/Email-ilyasidnev.qa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyasidnev.qa@gmail.com)
+
+<br>
 
 **Open to Junior QA Engineer / QA Engineer opportunities**
 
