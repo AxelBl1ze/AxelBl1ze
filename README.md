@@ -109,7 +109,6 @@ Junior QA Engineer с **4 месяцами коммерческого опыта
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@kyar0gg-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kyar0gg)
 [![Email](https://img.shields.io/badge/Email-ilyasidnev.qa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyasidnev.qa@gmail.com)
 
 <br>
